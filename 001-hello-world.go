@@ -1,5 +1,9 @@
-package main
+// FILENAME: 001-hello-world.go
+// DATE: 2017/6/8
+// AUTHOR: FORGING2012@GMAIL.COM
+// Github: https://github.com/forging2012
 
+package main
 import (
 	"fmt"
 )
