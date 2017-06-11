@@ -26,3 +26,15 @@ func main() {
 		break
 	}
 }
+
+/**
+"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:/Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/005-for.go
+1
+2
+7
+8
+9
+loop
+
+Process finished with exit code 0
+*/
