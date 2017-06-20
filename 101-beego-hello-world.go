@@ -3,6 +3,7 @@
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
 // Description: 101-beego-hello-world.gopackage main
+package main
 
 import (
 	"github.com/astaxie/beego"
