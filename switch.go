@@ -2,7 +2,7 @@
 // DATE: 2017/6/11
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 007-switch.go
+// Description: switch.go
 package main
 
 import (

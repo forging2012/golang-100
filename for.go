@@ -2,7 +2,7 @@
 // DATE: 2017/6/11
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 005-for.go
+// Description: for.go
 
 package main
 
@@ -28,7 +28,7 @@ func main() {
 }
 
 /**
-"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:/Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/005-for.go
+"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:/Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/for.go
 1
 2
 7

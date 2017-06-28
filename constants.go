@@ -2,7 +2,7 @@
 // DATE: 2017/6/11
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 004-constants.go
+// Description: constants.go
 
 package main
 

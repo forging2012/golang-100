@@ -2,7 +2,7 @@
 // DATE: 2017/6/11
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 002-values.go
+// Description: values.go
 
 package main
 
@@ -32,7 +32,7 @@ func main() {
 
 
 /*
-"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:/Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/002-values.go
+"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:/Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/values.go
 golang
 1+2= 3
 7/2= 3

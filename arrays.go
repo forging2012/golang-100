@@ -2,7 +2,7 @@
 // DATE: 2017/6/12
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 008-arrays.go
+// Description: arrays.go
 package main
 
 import (

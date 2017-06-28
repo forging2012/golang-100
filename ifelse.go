@@ -2,7 +2,7 @@
 // DATE: 2017/6/11
 // AUTHOR: FORGING2012@GMAIL.COM
 // Github: https://github.com/forging2012
-// Description: 006-ifelse.go
+// Description: ifelse.go
 package main
 
 import (
@@ -31,7 +31,7 @@ func main() {
 }
 
 /**
-"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:\Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/006-ifelse.go
+"C:\Program Files\JetBrains\Gogland 171.4424.55\bin\runnerw.exe" C:\Go\bin\go.exe run C:/Users/admin/Documents/wwwgit/golang-100/ifelse.go
 8 is divisible by 4.
 7 is odd.
 9 has 1 digit
