@@ -21,5 +21,15 @@ func main() {
 	pong, err := client.Ping().Result()
 	fmt.Println(pong, err) // Output: PONG <nil>
 
-	//fmt.Println("Golang redis.")
+	err = client.Set("name", "xys", 0).Err()
+	if err != nil {
+		panic(err)
+	}
+
+	val, err := client.Get("name").Result()
+	if err != nil {
+		panic(err)
+	}
+	fmt.Println("name", val)
+
 }

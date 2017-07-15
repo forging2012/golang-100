@@ -11,6 +11,7 @@ import (
 
 func main() {
 	fmt.Println("Hello world!")
+	fmt.Printf("Hello, world or 你好，世界 or καλημ ́ρα κóσμ or こんにちはせかい\n")
 }
 
 
